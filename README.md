@@ -5,6 +5,7 @@ Manage your dependencies, with minimal command line hack-fu
 ## Features
 
 - Downloads and integrates CocoaPods listed in a project's Podfile
+- Install (⌘+⌥+⌃+i) and edit/create Podfile (⌘+⌥+⌃+p) with shortcuts
 - Creates podspecs from a template
 - Shows command output in the window console
 - Installs documentation (from CocoaDocs) for the CocoaPods used in the open Xcode workspace
